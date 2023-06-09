@@ -2,6 +2,10 @@
 
 This Streamlit app provides an interactive dashboard for analyzing and visualizing YouTube channel statistics for the [3blue1brown](https://www.youtube.com/c/3blue1brown) channel. The app collects data using the YouTube API and performs data engineering to extract information about views, likes, comments, and upload date for each video on the channel.
 
+TRY THE APP !!!
+
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://faisalturki01-yt-dashboard-yt-dashboard-st-aeng1e.streamlit.app/)
+
 The app provides the following features:
 
 - *Overview*: A summary of the channel's statistics, including the number of videos, total views, total likes, total comments, and average views per video.
