@@ -8,11 +8,12 @@ TRY THE APP !!!
 
 The app provides the following features:
 
+- *Performance Dashboard*: a Dashboard showing the changes on the channel over 6 months period.
 - *Overview*: A summary of the channel's statistics, including the number of videos, total views, total likes, total comments, and average views per video.
 - *Videos*: A  table of all the videos on the channel, with columns for the video title, upload date, views, likes, comments, and engagement.
 - *Views over time*: A line chart showing the channel's views over time.
 - *Top 5 videos by engagement*: A bar chart showing the Top 5 videos by engagement.
-- *Performance Dashboard*: a Dashboard showing the changes on the channel over 6 months period.
+
 
 
 ## Usage
